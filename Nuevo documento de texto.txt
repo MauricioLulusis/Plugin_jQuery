@@ -1,0 +1,2 @@
+Profe buenas tardes, en mi trabajo práctico había agregado jQuery validation, aqui muestro un ejemplo 
+de como aplicarlo
